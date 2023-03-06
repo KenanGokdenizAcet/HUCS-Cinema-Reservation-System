@@ -1,0 +1,27 @@
+where your implementation should be compiled at:
+/////////// Type Below: LOCATION OF DIR ///////////
+src/
+///////////////////////////////////////////////////
+
+
+to COMPILE your implementation:
+///////////// Type Below: COMPILATION //////////////
+javac *.java
+///////////////////////////////////////////////////
+
+
+to RUN your implementation:
+///////////////// Type Below: RUN /////////////////
+java Main
+///////////////////////////////////////////////////
+
+
+where assets folder should be inserted:
+////////// Type Below: LOCATION OF ASSETS //////////
+src/
+///////////////////////////////////////////////////
+
+Please specify extra information if you have any
+////////// Type Below: EXTRA INFORMATION //////////
+speeded up parts: 0.50 - 0.53, 0.54-0.58, 1.00-1.01, 1.03-1.06, 1.56-2.05, 2.14-2.24, 3.56-4.01, 5.08-5.25, 5.44-5.51, 7.43-7.48
+///////////////////////////////////////////////////
